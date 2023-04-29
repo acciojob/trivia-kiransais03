@@ -2,8 +2,7 @@
 /* Your CSS Code here. */
 
 .block {
-	padding:5px;
+	padding:4px;
 	background-color:lightblue;
-	border-left:8px solid green;
-	
+	border-left:20px solid green;
 }
